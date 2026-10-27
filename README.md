@@ -1,5 +1,20 @@
-# 💫 About Me:
-👋 Hi, I’m Er Rakesh Sharma!<br><br>💼 Lead Salesforce Automation Engineer with 11 years of IT experience, including work with Salesforce consulting organizations such as Wipro and Appirio.<br><br>🚀 I build tools that simplify Salesforce development, improve testing, and make everyday work easier through automation and AI.<br><br>🛠️ What I’m building<br><br>🤖 SaralForce — An AI-powered Salesforce Inspector and toolkit featuring SOQL queries, Apex execution, AI-assisted custom object creation, data import/export, and user management.<br><br>🎭 Playwright-based Agentic AI Automation Framework — Bringing AI agents and browser automation together to support smarter testing workflows.<br><br>🙏 Bhajan Mandali — A personal web project combining technology and devotional inspiration.<br><br>🧩 Get SaralForce: Chrome Web Store · Microsoft Edge Add-ons<br><br>⚡ My focus: Salesforce · Test Automation · Playwright · Agentic AI · Browser Extensions<br><br>🤝 Open to connecting with developers, testers, and Salesforce enthusiasts to exchange ideas and build useful tools.<br><br>✨ Making Salesforce life easier—one tool, one test, and one idea at a time.
+# 👋 Hi, I’m **Er Rakesh Sharma**!
+
+💼 **Lead Salesforce Automation Engineer** with **11 years of IT experience**, including work with **Wipro and Appirio**.
+
+🚀 I’m passionate about simplifying Salesforce workflows, building useful tools, and combining AI with automation to make everyday work easier.
+
+- 🤖 **Creator of [SaralForce](https://rakesh-attri.github.io/SaralForce/)** — An AI-powered Salesforce Inspector and toolkit for admins and developers.
+- 🎭 **Built a Playwright-based Agentic AI Automation Framework** to support smarter browser testing workflows.
+- 🛠️ **My focus:** Salesforce · Test Automation · Playwright · Agentic AI · Browser Extensions
+- 🤝 Always happy to connect with fellow developers, testers, and Salesforce enthusiasts.
+
+🌐 **My website:** [erbhajanmandali.is-a.bot](https://erbhajanmandali.is-a.bot/)
+
+🧩 **Try SaralForce:** [Chrome Web Store](https://chromewebstore.google.com/detail/saralforce/fgapgjgejookdgliokajnbfkabkifclg) · [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/saralforce/nabomjoibaaoialocfpphgcmfldjmeik?hl=en-US)
+
+✨ *Making Salesforce life easier—one tool, one test, and one idea at a time.*
+
 
 
 ## 🌐 Socials:
@@ -20,5 +35,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=rakesh-attri&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
